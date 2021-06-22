@@ -1,4 +1,4 @@
-#1 Livro de Receitas :man_cook
+ #1 Livro de Receitas 👨‍🍳
 
 Ola! Seja bem vindo a minha bela receita
 
